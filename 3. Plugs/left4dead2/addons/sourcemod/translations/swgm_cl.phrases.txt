@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"JoinSteam"
+	{
+		"en"		"[SWGM] First join our Steam group!"
+		"ru"		"[SWGM] Сначала вступите в нашу Steam группу!"
+		"fr"		"[SWGM] En premier, rejoignez notre groupe Steam!"
+	}
+	"Server"
+	{
+		"en"		"{OLIVE}Left 4 Legend {DEFAULT}server:\n{BLUE}steamcommunity.com/groups/Left4Legend"
+		"ru"		"{OLIVE}Left 4 Legend {DEFAULT}сервер:\n{BLUE}steamcommunity.com/groups/Left4Legend"
+	}
+	"Donate"
+	{
+		"en"		"Support server by donating:\n{LIGHTGREEN}0xb8Fa51372ea711e855bF9494FE8183Fec1533058 {DEFAULT}(USDT)\n{OLIVE}bc1q6uccrvct02h7fup2wjrkur0jwq07duna72vnua {DEFAULT}(BTC)"
+		"ru"		"Поддержите сервер донатом для продления его аренды:\n{LIGHTGREEN}2200 7001 5804 7174 {DEFAULT}(Т-Банк)\n{OLIVE}2202 2032 1145 5292 {DEFAULT}(СберБанк)"
+	}
+	"Commands"
+	{
+		"en"		"{OLIVE}!commands !help !server\n{BLUE}!maps !modes !afk !join !spec\n{ORANGE}!drop !restarts !donate !time"
+	}
+	"Help"
+	{
+		"en"		"{OLIVE}Guide with all server features:\n{LIGHTGREEN}steamcommunity.com/sharedfiles/filedetails/?id=3384448522"
+		"ru"		"{OLIVE}Руководство со всеми особенностями сервера:\n{LIGHTGREEN}steamcommunity.com/sharedfiles/filedetails/?id=3384448522"
+	}
+	"Join"
+	{
+		"en"		"{LIGHTGREEN}steamcommunity.com/groups/Left4Legend\n{OLIVE}Join the group to add server to your favorites & hide these messages"
+		"ru"		"{LIGHTGREEN}steamcommunity.com/groups/Left4Legend\n{OLIVE}Присоединитесь к группе, чтобы добавить сервер в избранное и скрыть эти сообщения"
+	}
+}
